@@ -1,2 +1,3 @@
 # Location-Tracker
-Used python to track down location 
+
+# Input your phone number to get location details with a map of your phone number.
